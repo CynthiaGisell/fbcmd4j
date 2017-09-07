@@ -1,11 +1,24 @@
 # fbcmd4j
-Instalación
+# Instalación
+Crear una cuenta en GitHub como usuario normal o estudiante
+https://education.github.com/ con tu cuenta de correo.
+Instalar GitHub para Escritorio o Git en línea de comando.
+Instalar un IDE de acuerdo a los mencionados (Eclipse, NetBeans, IntelliJIDEA).
 
-Uso
+# Uso
+Obtener el NewsFeed del usuario que ejecuta la aplicación con la posibilidad de
+guardar las últimas N publicaciones en un archivo de texto.
+ Obtener el Wall del usuario que ejecuta la aplicación con la posibilidad de guardar las
+ últimas N publicaciones en un archivo de texto.
+ Publicar un estado en el Wall del usuario que ejecuta la aplicación.
+ Publicar un Link en el Wall del usuario que ejecuta la aplicación.
 
-Creditos
+# Creditos
+Jose Manuel
+jm66
+https://github.com/jm66/fbcmd4j
 
-License
+# License
 MIT License
 
 Copyright (c) 2017 CynthiaGisell
