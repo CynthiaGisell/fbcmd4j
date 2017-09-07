@@ -20,7 +20,6 @@ https://github.com/jm66/fbcmd4j
 
 # License
 MIT License
-
 Copyright (c) 2017 CynthiaGisell
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
