@@ -8,11 +8,16 @@ Instalar GitHub para Escritorio o Git en línea de comando.
 Instalar un IDE de acuerdo a los mencionados (Eclipse, NetBeans, IntelliJIDEA).
 
 # Uso
-Evidencia 1 Computación en Java
+Utiliza la tecnología y el lenguaje Java® para instalar y configurar un
+ambiente de desarrollo eficiente mediante la programación estructurada y orientada a
+objetos, integrando diferentes tecnologías que le sean relevantes.
+
 
 # Creditos
 Jose Manuel Lopez Lujan
 jm66
+Cynthia Gisell Gutiérrez Porto
+CynthiaGisell
 
 # License
 MIT License
