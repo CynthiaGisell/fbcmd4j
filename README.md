@@ -14,10 +14,12 @@ objetos, integrando diferentes tecnologías que le sean relevantes.
 
 
 # Creditos
-Jose Manuel Lopez Lujan.
-jm66.
+Jose Manuel Lopez Lujan
+
+jm66
 
 Cynthia Gisell Gutiérrez Porto
+
 CynthiaGisell
 
 # License
