@@ -8,9 +8,11 @@ Instalar GitHub para Escritorio o Git en línea de comando.
 Instalar un IDE de acuerdo a los mencionados (Eclipse, NetBeans, IntelliJIDEA).
 
 # Uso
-Utiliza la tecnología y el lenguaje Java® para instalar y configurar un
-ambiente de desarrollo eficiente mediante la programación estructurada y orientada a
-objetos, integrando diferentes tecnologías que le sean relevantes.
+El participante aplicará conocimientos obtenidos en el curso para crear un cliente de
+Facebook en línea de comando en Java con Facebook4J y otras librerías de código libre,
+donde pueda realizar cuatro operaciones básicas: obtener el newsfeed, obtener el wall y poder
+guardar la salida en un archivo; publicar estado y publicar un link. Además de configuración de
+la aplicación en Java y en Facebook. 
 
 
 # Creditos
