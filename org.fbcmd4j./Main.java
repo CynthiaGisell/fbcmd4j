@@ -1,5 +1,5 @@
 package org.fbcmd4j;
-import org.apache.logging.log4j.core.*;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
